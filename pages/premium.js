@@ -16,7 +16,7 @@ export default function Premium() {
               <h1 className="text-6xl font-bold uppercase">Premium Seating</h1>
               <h2 className="text-3xl uppercase text-[#fced29] mt-4 mb-5">The best way to enjoy all the excitement</h2>
               <p className="mb-8">Whether you’re entertaining business clients, closing a major deal, or socializing with family and friends, a luxury suite provides all the convenience, comfort and service you desire. As the home of the Utah Jazz and the country’s most popular touring musical acts and family shows, Vivint Arena is the place to meet, greet, see and be seen in Utah.</p>
-              <a href="#contact"className='mt-12 mb-8 border-2 border-yellow rounded px-4 bg-black text-[#fced29]'>Contact Us</a>
+              <a href="#contact"className='mt-12 mb-8 border-2 border-white rounded px-4 bg-black text-[#fced29]'>Contact Us</a>
             </div>
           </div>
           <div>
@@ -31,7 +31,7 @@ export default function Premium() {
                     <div className="px-8">
                         <h4 className="py-3 text-xl font-bold text-[#fced29]">Luxury Suites</h4>
                         <p>Your suite can enhance your corporate profile and give you an advantage over your competitors. It offers the chance to communicate your message in a luxurious setting while making entertaining as easy as it is elegant. Take advantage of the most unique and exciting way to entertain in Utah by becoming a Vivint Arena luxury suite holder.</p>
-                        <button  className='mt-8 mb-8 border-2 border-yellow rounded px-4 bg-black text-[#fced29]'>Learn More</button>
+                        <button  className='mt-8 mb-8 border-2 border-white rounded px-4 bg-black text-[#fced29]'>Learn More</button>
                     </div>
                 </div>
                 <div className="-mt-14 bg-black text-white ml-4 mr-15">
@@ -44,7 +44,7 @@ export default function Premium() {
                     <div className="px-8">
                         <h4 className="py-3 text-xl font-bold text-[#fced29]">Exclusive Clubs</h4>
                         <p>Membership into one of our exlusive clubs can enhance your corporate profile and give you an advantage over your competitors. It offers the chance to communicate your message in a luxurious setting while making entertaining as easy as it is elegant. Take advantage of the most unique and exciting way to entertain in Utah with one of our exclusive club memberships at Vivint Arena.</p>
-                        <button className='mt-8 mb-8 border-2 border-yellow rounded px-4 bg-black text-[#fced29]'>Learn More</button>
+                        <button className='mt-8 mb-8 border-2 border-white rounded px-4 bg-black text-[#fced29]'>Learn More</button>
                     </div>
                 </div>
               </div>
