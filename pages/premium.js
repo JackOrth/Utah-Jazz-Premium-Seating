@@ -38,8 +38,8 @@ export default function Premium() {
                     <Image 
                     src="/photo5.jpg"
                     alt="photo5"
-                    height={389}
-                    width={690}
+                    height={400}
+                    width={700}
                     />
                     <div className="px-8">
                         <h4 className="py-3 text-xl font-bold text-[#fced29]">Exclusive Clubs</h4>
