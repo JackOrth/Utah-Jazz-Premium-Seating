@@ -75,7 +75,7 @@ export default function Premium() {
                         alt="photo6"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                         <h5 className="absolute top-2/4 left-[30%]">Eide Bailly Suite Level</h5>
                    </div>
@@ -85,7 +85,7 @@ export default function Premium() {
                         alt="photo7"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                     <h5 className="absolute top-2/4 left-[33%]">Level 3 Udo Lounge</h5>  
                    </div>
@@ -97,7 +97,7 @@ export default function Premium() {
                         alt="photo8"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                         <h5 className="absolute top-2/4 left-[35%]">Loge Boxes</h5>
                    </div>
@@ -107,7 +107,7 @@ export default function Premium() {
                         alt="photo4"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                     <h5 className="absolute top-2/4 left-[35%]">Courtside Suites</h5>  
                    </div>
@@ -122,7 +122,7 @@ export default function Premium() {
                         alt="photo9"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                         <h5 className="absolute top-2/4 left-[35%]">Toyota Club</h5>
                    </div>
@@ -132,7 +132,7 @@ export default function Premium() {
                         alt="photo10"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                     <h5 className="absolute top-2/4 left-[35%]">Eide Bailly Club</h5>  
                    </div>
@@ -144,7 +144,7 @@ export default function Premium() {
                         alt="photo11"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                         <h5 className="absolute top-2/4 left-[30%]">WCF Insurance Club</h5>
                    </div>
@@ -154,7 +154,7 @@ export default function Premium() {
                         alt="photo12"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                     <h5 className="absolute top-2/4 left-[42%]">Lexus Club</h5>  
                    </div>
@@ -166,7 +166,7 @@ export default function Premium() {
                         alt="photo13"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                         <h5 className="absolute top-2/4 left-[28%]">Courtside Club<br></br>Presented By Entrata</h5>
                    </div>
@@ -176,7 +176,7 @@ export default function Premium() {
                         alt="photo14"
                         width={665}
                         height={365}
-                        className="opacity-50"
+                        className="opacity-50 cursor-pointer hover:opacity-95 hover:scale-105 hover:ease-in duration-150"
                    />
                     <h5 className="absolute top-2/4 left-[28%]">Legends Club<br></br>Presented By LGCY Power</h5>  
                    </div>
